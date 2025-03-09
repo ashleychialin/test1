@@ -4,3 +4,4 @@ print("ok")
 print("go")
 print("fine")
 a = 1
+print(a)
